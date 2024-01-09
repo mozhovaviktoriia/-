@@ -1,0 +1,75 @@
+C:\Users\vikus\OneDrive\Documents\Coding\04\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+C:\Users\vikus\OneDrive\Documents\Coding\04\PuzzleGame\bin\Debug\PuzzleGame.exe
+C:\Users\vikus\OneDrive\Documents\Coding\04\PuzzleGame\bin\Debug\PuzzleGame.pdb
+C:\Users\vikus\OneDrive\Documents\Coding\04\PuzzleGame\obj\Debug\PuzzleGame.csproj.AssemblyReference.cache
+C:\Users\vikus\OneDrive\Documents\Coding\04\PuzzleGame\obj\Debug\MainWindow.g.cs
+C:\Users\vikus\OneDrive\Documents\Coding\04\PuzzleGame\obj\Debug\App.g.cs
+C:\Users\vikus\OneDrive\Documents\Coding\04\PuzzleGame\obj\Debug\PuzzleGame_MarkupCompile.cache
+C:\Users\vikus\OneDrive\Documents\Coding\04\PuzzleGame\obj\Debug\PuzzleGame_MarkupCompile.lref
+C:\Users\vikus\OneDrive\Documents\Coding\04\PuzzleGame\obj\Debug\MainWindow.baml
+C:\Users\vikus\OneDrive\Documents\Coding\04\PuzzleGame\obj\Debug\PuzzleGame.g.resources
+C:\Users\vikus\OneDrive\Documents\Coding\04\PuzzleGame\obj\Debug\PuzzleGame.Properties.Resources.resources
+C:\Users\vikus\OneDrive\Documents\Coding\04\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateResource.cache
+C:\Users\vikus\OneDrive\Documents\Coding\04\PuzzleGame\obj\Debug\PuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\vikus\OneDrive\Documents\Coding\04\PuzzleGame\obj\Debug\PuzzleGame.exe
+C:\Users\vikus\OneDrive\Documents\Coding\04\PuzzleGame\obj\Debug\PuzzleGame.pdb
+C:\Users\vikus\OneDrive\Робочий стіл\Новая папка\04\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+C:\Users\vikus\OneDrive\Робочий стіл\Новая папка\04\PuzzleGame\bin\Debug\PuzzleGame.exe
+C:\Users\vikus\OneDrive\Робочий стіл\Новая папка\04\PuzzleGame\bin\Debug\PuzzleGame.pdb
+C:\Users\vikus\OneDrive\Робочий стіл\Новая папка\04\PuzzleGame\obj\Debug\PuzzleGame.csproj.AssemblyReference.cache
+C:\Users\vikus\OneDrive\Робочий стіл\Новая папка\04\PuzzleGame\obj\Debug\MainWindow.g.cs
+C:\Users\vikus\OneDrive\Робочий стіл\Новая папка\04\PuzzleGame\obj\Debug\App.g.cs
+C:\Users\vikus\OneDrive\Робочий стіл\Новая папка\04\PuzzleGame\obj\Debug\PuzzleGame_MarkupCompile.cache
+C:\Users\vikus\OneDrive\Робочий стіл\Новая папка\04\PuzzleGame\obj\Debug\PuzzleGame_MarkupCompile.lref
+C:\Users\vikus\OneDrive\Робочий стіл\Новая папка\04\PuzzleGame\obj\Debug\MainWindow.baml
+C:\Users\vikus\OneDrive\Робочий стіл\Новая папка\04\PuzzleGame\obj\Debug\PuzzleGame.g.resources
+C:\Users\vikus\OneDrive\Робочий стіл\Новая папка\04\PuzzleGame\obj\Debug\PuzzleGame.Properties.Resources.resources
+C:\Users\vikus\OneDrive\Робочий стіл\Новая папка\04\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateResource.cache
+C:\Users\vikus\OneDrive\Робочий стіл\Новая папка\04\PuzzleGame\obj\Debug\PuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\vikus\OneDrive\Робочий стіл\Новая папка\04\PuzzleGame\obj\Debug\PuzzleGame.exe
+C:\Users\vikus\OneDrive\Робочий стіл\Новая папка\04\PuzzleGame\obj\Debug\PuzzleGame.pdb
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\04\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\04\PuzzleGame\bin\Debug\PuzzleGame.exe
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\04\PuzzleGame\bin\Debug\PuzzleGame.pdb
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\04\PuzzleGame\obj\Debug\PuzzleGame.csproj.AssemblyReference.cache
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\04\PuzzleGame\obj\Debug\MainWindow.g.cs
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\04\PuzzleGame\obj\Debug\App.g.cs
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\04\PuzzleGame\obj\Debug\PuzzleGame_MarkupCompile.cache
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\04\PuzzleGame\obj\Debug\PuzzleGame_MarkupCompile.lref
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\04\PuzzleGame\obj\Debug\MainWindow.baml
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\04\PuzzleGame\obj\Debug\PuzzleGame.g.resources
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\04\PuzzleGame\obj\Debug\PuzzleGame.Properties.Resources.resources
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\04\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateResource.cache
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\04\PuzzleGame\obj\Debug\PuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\04\PuzzleGame\obj\Debug\PuzzleGame.exe
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\04\PuzzleGame\obj\Debug\PuzzleGame.pdb
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\Збери_пейзаж\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\Збери_пейзаж\PuzzleGame\bin\Debug\PuzzleGame.exe
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\Збери_пейзаж\PuzzleGame\bin\Debug\PuzzleGame.pdb
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\Збери_пейзаж\PuzzleGame\obj\Debug\PuzzleGame.csproj.AssemblyReference.cache
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\Збери_пейзаж\PuzzleGame\obj\Debug\MainWindow.g.cs
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\Збери_пейзаж\PuzzleGame\obj\Debug\App.g.cs
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\Збери_пейзаж\PuzzleGame\obj\Debug\PuzzleGame_MarkupCompile.cache
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\Збери_пейзаж\PuzzleGame\obj\Debug\PuzzleGame_MarkupCompile.lref
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\Збери_пейзаж\PuzzleGame\obj\Debug\MainWindow.baml
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\Збери_пейзаж\PuzzleGame\obj\Debug\PuzzleGame.g.resources
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\Збери_пейзаж\PuzzleGame\obj\Debug\PuzzleGame.Properties.Resources.resources
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\Збери_пейзаж\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateResource.cache
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\Збери_пейзаж\PuzzleGame\obj\Debug\PuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\Збери_пейзаж\PuzzleGame\obj\Debug\PuzzleGame.exe
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\Збери_пейзаж\PuzzleGame\obj\Debug\PuzzleGame.pdb
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\Збери_пейзаж\Збери_пейзаж\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\Збери_пейзаж\Збери_пейзаж\PuzzleGame\bin\Debug\PuzzleGame.exe
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\Збери_пейзаж\Збери_пейзаж\PuzzleGame\bin\Debug\PuzzleGame.pdb
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\Збери_пейзаж\Збери_пейзаж\PuzzleGame\obj\Debug\PuzzleGame.csproj.AssemblyReference.cache
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\Збери_пейзаж\Збери_пейзаж\PuzzleGame\obj\Debug\MainWindow.g.cs
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\Збери_пейзаж\Збери_пейзаж\PuzzleGame\obj\Debug\App.g.cs
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\Збери_пейзаж\Збери_пейзаж\PuzzleGame\obj\Debug\PuzzleGame_MarkupCompile.cache
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\Збери_пейзаж\Збери_пейзаж\PuzzleGame\obj\Debug\PuzzleGame_MarkupCompile.lref
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\Збери_пейзаж\Збери_пейзаж\PuzzleGame\obj\Debug\MainWindow.baml
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\Збери_пейзаж\Збери_пейзаж\PuzzleGame\obj\Debug\PuzzleGame.g.resources
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\Збери_пейзаж\Збери_пейзаж\PuzzleGame\obj\Debug\PuzzleGame.Properties.Resources.resources
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\Збери_пейзаж\Збери_пейзаж\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateResource.cache
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\Збери_пейзаж\Збери_пейзаж\PuzzleGame\obj\Debug\PuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\Збери_пейзаж\Збери_пейзаж\PuzzleGame\obj\Debug\PuzzleGame.exe
+C:\Users\vikus\OneDrive\Робочий стіл\Курсова\Збери_пейзаж\Збери_пейзаж\PuzzleGame\obj\Debug\PuzzleGame.pdb
